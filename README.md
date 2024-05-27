@@ -13,6 +13,7 @@ The purpose of this project was to provide a demonstration of the OpenVAS scanni
 ### Tools Used
 
 - OpenVAS
+- Oracle VM
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
