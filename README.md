@@ -1,25 +1,18 @@
-# OpenVAS-Scan
+# OpenVAS Scan
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The purpose of this project was to provide a demonstration of the OpenVAS scanning tool as well as showcase a quick and effective vulnerability remediation. This short project was designed to gain insight on vulnerability scanning and strengthening security posture.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Prowess in performing vulnerability scanning.
+- Vulnerability remediation.
+- Deeper understanding of attack surface principles.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- OpenVAS
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
