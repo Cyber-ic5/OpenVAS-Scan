@@ -15,11 +15,24 @@ The purpose of this project was to provide a demonstration of the OpenVAS scanni
 - OpenVAS
 - Oracle VM
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+## Guide
+Ref 1: Initial scan (scanned the OpenVAS client IP).
 
-Every screenshot should have some text explaining what the screenshot is about.
+![Screenshot (1682)](https://github.com/Cyber-ic5/OpenVAS-Scan/assets/169179159/0d9d8326-3730-4c3c-ab0f-7ba0b8df4781)
 
-Example below.
+Ref 2: Results of initial scan.
 
-*Ref 1: Network Diagram*
+![Screenshot (1678)](https://github.com/Cyber-ic5/OpenVAS-Scan/assets/169179159/09f44443-deea-46e6-ad78-91a7514c711a)
+
+Ref 3: Default admin was deleted, New admin was created.
+
+![Screenshot (1679)](https://github.com/Cyber-ic5/OpenVAS-Scan/assets/169179159/ce95cd70-ed59-463b-9a4d-e0aceb7df087)
+
+Ref 4: New scan to confirm remediation.
+
+![Screenshot (1680)](https://github.com/Cyber-ic5/OpenVAS-Scan/assets/169179159/879c727d-3357-4ff0-9484-d0487ad473ff)
+
+
+Ref 5: Results of 2nd scan.
+
+![Screenshot (1681)](https://github.com/Cyber-ic5/OpenVAS-Scan/assets/169179159/8afc7a68-578b-4f59-a226-0d1ec9f9593d)
