@@ -33,6 +33,6 @@ Ref 4: New scan to confirm remediation.
 ![Screenshot (1680)](https://github.com/Cyber-ic5/OpenVAS-Scan/assets/169179159/879c727d-3357-4ff0-9484-d0487ad473ff)
 
 
-Ref 5: Results of 2nd scan, high severity vulnerability remediated.
+Ref 5: Results of 2nd scan, high severity vulnerability resolved.
 
 ![Screenshot (1681)](https://github.com/Cyber-ic5/OpenVAS-Scan/assets/169179159/8afc7a68-578b-4f59-a226-0d1ec9f9593d)
