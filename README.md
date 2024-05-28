@@ -6,7 +6,7 @@ The purpose of this project was to provide a demonstration of the OpenVAS scanni
 
 ### Skills Learned
 
-- Prowess in performing vulnerability scanning.
+- Performing vulnerability scans.
 - Vulnerability remediation.
 - Deeper understanding of attack surface principles.
 
